@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="btn_dynamic_list">Dynamic List</string>
+
+    <array name="myList">
+        <item>Samsung</item>
+        <item>Apple</item>
+        <item>Sony</item>
+        <item>LG</item>
+    </array>
 </resources>
